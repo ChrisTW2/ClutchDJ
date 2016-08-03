@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "439903225480",
+    "firebase_url": "https://edudesudsuappacademyclutchdj.firebaseio.com",
+    "project_id": "edudesudsuappacademyclutchdj",
+    "storage_bucket": "edudesudsuappacademyclutchdj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439903225480:android:53a124ce2373e1d8",
+        "android_client_info": {
+          "package_name": "edu.desu.dsuappacademy.clutchdj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439903225480-ecvi5p6lhvseit4rjdgbf6nqdub09nns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPg03YM2XBOLU1U8BMwyoGFl33KZJfnDw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
