@@ -20,12 +20,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-            android:name=".LoginActivity"
-            android:label="Sign in">
-
-
-
-
         <activity
             android:name=".LoginActivity"
             android:label="Splash">
